@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Visualización completa en HTML
 Enlace a la visualización a través del navegador web
-[Ver el Notebook](https://luisgf93.github.io/data_visualization_pec2/pec2.html)
+[Ver el Notebook](https://luisgf93.github.io/data_visualization_pec2/pec2_final_version.html)
 
 ### Visualización del Histograma:
 ![Descripción de la imagen](assets/histogram_output.png)
