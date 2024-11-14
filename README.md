@@ -29,13 +29,13 @@ pip install -r requirements.txt
 
 ### Visualización completa en HTML
 Enlace a la visualización a través del navegador web
-[Ver el Notebook](https://luisgf93.github.io/pec2_visualization/pec2.html)
+[Ver el Notebook](https://luisgf93.github.io/data_visualization_pec2/pec2.html)
 
 ### Visualización del Histograma:
 ![Descripción de la imagen](assets/histogram_output.png)
 
 ### Visualización del Chloropeth map:
-[Ver el mapa interactivo](https://luisgf93.github.io/pec2_visualization/assets/chloropeth_map.html)
+[Ver el mapa interactivo](https://luisgf93.github.io/data_visualization_pec2/assets/chloropeth_map.html)
 
 ### Visualización del Marimekko:
 ![Descripción de la imagen](assets/marimekko_output.png)
